@@ -1,0 +1,2 @@
+# rapddos
+An ethical website testing tool. THE CREATOR IS NOT RESPONSIBLE FOR THE ACTIONS YOU PERFORM WITH THIS TOOL!
