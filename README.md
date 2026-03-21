@@ -1,26 +1,40 @@
-# rapddos
-An ethical website testing tool. THE CREATOR IS NOT RESPONSIBLE FOR THE ACTIONS YOU PERFORM WITH THIS TOOL!
-# RapDDOS - Advanced Site Testing Tool.
+# RapDDOS - Ethical Website Testing Tool
 
-**RapDDOS** is a powerful Python-based DDoS attack tool designed for penetration testing and security research. It leverages Tor SOCKS5 proxies for anonymity and includes a comprehensive set of user agents for bypassing detection.
+**RapDDOS** is a Python-based testing tool designed for authorized penetration testing and security research. The creator is not responsible for misuse of this tool.
+
+## Purpose & Ethics
+
+RapDDOS is designed for:
+- Authorized security testing
+- Load capacity assessment
+- Network resilience testing
+- Penetration testing with permission
+
+## Legal Notice
+
+By using RapDDOS:
+- You agree to test only systems you own or have explicit permission to test
+- You take responsibility for any network impact
+- You comply with local laws and regulations
+- You respect the target's resources and privacy
 
 ## Features
 
-- **Advanced Anonymity**: Uses Tor SOCKS5 proxies exclusively
-- **Comprehensive User Agents**: 20 different browser fingerprints
-- **High Performance**: Asynchronous request handling
-- **Customizable**: Adjustable request frequency
-- **Cross-Platform**: Works on Linux systems
+- **Ethical Testing**: Designed for controlled environments
+- **Comprehensive User Agents**: 20 browser fingerprints
+- **Asynchronous Requests**: High-performance testing
+- **Anonymity**: Uses Tor SOCKS5 proxies
+- **Configurable**: Adjustable load levels
 
 ## Requirements
 
 - Python 3.x
-- Tor package installed on system
+- Tor package installed
 - aiohttp library (`pip install aiohttp`)
 
 ## Installation
 
-1. Clone the repository:
 ```bash
-git clone https://github.com/raprapyap1000-ux/rapddos.git
+git clone https://github.com/yourusername/rapddos.git
 cd rapddos
+pip install aiohttp
