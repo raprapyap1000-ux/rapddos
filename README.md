@@ -22,5 +22,5 @@ An ethical website testing tool. THE CREATOR IS NOT RESPONSIBLE FOR THE ACTIONS 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/rapddos.git
+git clone https://github.com/raprapyap1000-ux/rapddos.git
 cd rapddos
