@@ -35,6 +35,6 @@ By using RapDDOS:
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/rapddos.git
+git clone https://github.com/raprapyap1000-ux/rapddos.git
 cd rapddos
 pip install aiohttp
